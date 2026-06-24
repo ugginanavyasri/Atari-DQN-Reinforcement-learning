@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 dqn_model.pth
 models/
+atari_demo.gif
+reinforcement_learning_demo_video.mp4
