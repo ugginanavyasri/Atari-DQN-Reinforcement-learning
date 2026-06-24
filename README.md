@@ -60,3 +60,13 @@ python train.py
 Test the trained agent:
 
 python test_ai.py
+
+
+
+
+
+## Demo
+
+AI agent playing Atari game:
+
+![AI Gameplay](assets/reinforcement_learning_demo_video.gif)
